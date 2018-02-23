@@ -4,4 +4,4 @@
 
 #### The goal of this assignment is to explore the data from a personal activity monitoring devices.
 
-#### Reproducible report ca be accessed here: http://rpubs.com/Shindler/rerpoducible_research_week_2
+#### Reproducible report can be accessed here: http://rpubs.com/Shindler/rerpoducible_research_week_2
